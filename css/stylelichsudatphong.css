@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#logo
+{
+	width:100px;
+	height:70px
+}
+
+#NameHotel
+{
+	font-size:30px;
+	color: red;
+	font-family:Comic Sans MS;
+}
+
+#tieudedatphong
+{
+	background-color:#0099CC;
+	color:#CC0000;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	text-align:center;
+	height:60px;
+	padding-top:5px;
+	padding-bottom:5px;	
+	margin-bottom:20px;
+}
+
+#kt
+{
+	margin-bottom:10px;
+}
+
+
+#danhsachdatphong
+{
+	margin-bottom:20px;
+	height:700px;
+	background-color:#99FF99;
+	padding-top:10px;
+}
+
+#tt
+{
+	height:80px;
+	text-align:center;
+}
+
+
+table
+{
+	border-collapse:collapse;
+	width:97%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+
+footer
+{
+	background-color: #363636;
+}
+		
+h4{
+	color:white;
+}
+		
+p
+{
+	line-height:1.5;
+	color: #000011;
+	font-size:17px;
+}
+
+#ft
+{
+	color: #000011;
+}
+
+.fa {
+  padding: 5px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}

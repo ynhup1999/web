@@ -1,0 +1,142 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#logo
+{
+	width:100px;
+	height:70px
+}
+
+#NameHotel
+{
+	font-size:30px;
+	color: red;
+	font-family:Comic Sans MS;
+}
+
+#sodophong
+{
+	margin-top:20px;
+	background-color: #FFFFCC;
+}
+
+table
+{
+	text-align:center;
+}
+
+td
+{
+	width:50px;
+	height:50px;
+}
+
+#pdon
+{
+	background-color:#CCFFCC;
+}
+
+#pdoi
+{
+	background-color:#FFCCFF;
+}
+
+#pgiadinh
+{
+	background-color:#FF6633;
+}
+
+#dslau
+{
+	width:50px;
+	height:50px;
+}
+
+li
+{
+	list-style:none;
+}
+
+#formthongtin
+{
+	border:2px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color: #FFFF99;
+}
+
+#tieude
+{
+	line-height:15px;
+	margin-top:13px;
+	margin-bottom:10px;
+	font-size:20px;
+	
+}
+
+#thongtinkhach_hoten, #thongtinkhach_ngaysinh, #thongtinkhach_cmnd, #thongtinkhach_sdt, #thongtinkhach_sophong, #thongtinkhach_ngaynhan, #thongtinkhach_ngaytra, #thongtinkhach_email, #thongtinkhach_tongchiphi
+{
+	width:400px;
+	height:43px;
+	font-size:20px;
+	border-bottom:4px solid #006666;
+
+}
+
+#choice
+{
+	font-size:20px;
+}
+
+#listchoice
+{
+	font-size:20px;
+	height:20px;
+	width:20px;
+	margin-left:30px;
+}
+
+
+footer
+{
+	background-color: #363636;
+}
+		
+h4{
+	color:white;
+}
+		
+p
+{
+	line-height:1.5;
+	color: #000011;
+	font-size:17px;
+}
+
+#ft
+{
+	color: #000011;
+}
+
+.fa {
+  padding: 5px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
